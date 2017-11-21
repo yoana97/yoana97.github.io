@@ -6,48 +6,36 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://y.com/images/d.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://y.com/images/b-crop-u957.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://y.com/images/22-crop-u127.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://y.com/images/f.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://y.com/images/untitled-1-crop-u483.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://y.com/images/pepa-ubera-and-josefina-camus_photo-by-camilla-greenwell-e1509806069811.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://y.com/images/13.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://y.com/images/d.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://y.com/images/25.jpg</image:loc>
+      <image:loc>http://y.com/images/32.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://y.com/images/302f74c68ed0ee5b47d7066592552ae6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://y.com/images/untitled-0-crop-u553.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://y.com/images/2-crop-u387.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://y.com/images/3.jpg</image:loc>
+      <image:loc>http://y.com/images/logo-sadlers-wells-g.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://y.com/untitled-2.html</loc>
-    <lastmod>2017-11-17</lastmod>
+    <lastmod>2017-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://y.com/untitled-2-copy.html</loc>
-    <lastmod>2017-11-17</lastmod>
+    <lastmod>2017-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -57,10 +45,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://y.com/images/f.jpg</image:loc>
+      <image:loc>http://y.com/images/d.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://y.com/images/d.jpg</image:loc>
+      <image:loc>http://y.com/images/f.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://y.com/images/22-crop-u783.jpg</image:loc>
@@ -68,7 +56,7 @@
   </url>
   <url>
     <loc>http://y.com/untitled-6.html</loc>
-    <lastmod>2017-11-17</lastmod>
+    <lastmod>2017-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
