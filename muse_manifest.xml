@@ -1,55 +1,103 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="y.com" resolutions="1x" timestamp="1510935405663">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="y.com" resolutions="1x" timestamp="1511273563933">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="329063980" ref="index"/>
+    <file name="untitled-6.css" crc="270492816" ref="untitled-6"/>
+    <file name="untitled-2.css" crc="4013527672" ref="untitled-2"/>
+    <file name="untitled-5.css" crc="236932667" ref="untitled-5"/>
+    <file name="index.css" crc="316145789" ref="index"/>
+    <file name="untitled-2-copy.css" crc="514916785" ref="untitled-2-copy"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="17924269" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="144853533" ref="index"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="232371266" ref="index"/>
-    <file name="require.js" crc="3861931657" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
+    <file name="museutils.js" crc="17924269" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
+    <file name="museconfig.js" crc="144853533" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
+    <file name="require.js" crc="3861931657" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
   </folder>
   <folder name="images">
-    <file name="24.jpg" crc="129792771" seo="true" ref="index">
+    <file name="3 copy.jpg" crc="407732459" ref="index:untitled-5:untitled-6">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="22-crop-u127.jpg" crc="4108591795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f.jpg" crc="4071046528" seo="true" ref="index:untitled-5">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+    </file>
+    <file name="u455-4.png" crc="3876317922" ref="index"/>
+    <file name="u467-6.png" crc="244924970" ref="index"/>
+    <file name="6f4ca4f0067b927512b2cfc139ce1ebc.jpg" crc="4002411892" ref="index:untitled-2-copy">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1-crop-u483.png" crc="4171048577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10.jpg" crc="82046802" ref="index:untitled-2-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2-copy" alt=""/>
+    </file>
+    <file name="pepa-ubera-and-josefina-camus_photo-by-camilla-greenwell-e1509806069811.jpg" crc="4201128681" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u464-7.png" crc="4003657556" ref="index"/>
+    <file name="13.png" crc="323803334" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="286025725" ref="index:untitled-5">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+    </file>
+    <file name="u827-4.png" crc="3798190053" ref="index"/>
+    <file name="u147-8.png" crc="305969410" ref="index"/>
+    <file name="d.jpg" crc="176268300" seo="true" ref="index:untitled-5">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+    </file>
+    <file name="42.jpg" crc="3799158578" ref="index:untitled-2:untitled-2-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2-copy" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="u814-4.png" crc="478261983" ref="index"/>
+    <file name="u509-4.png" crc="3798190053" ref="index"/>
     <file name="25.jpg" crc="51751296" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="302f74c68ed0ee5b47d7066592552ae6.jpg" crc="4289123768" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="22-crop-u127.jpg" crc="4108591795" seo="true" ref="index">
+    <file name="u546-4.png" crc="6530351" ref="index"/>
+    <file name="u549-4.png" crc="3906199295" ref="index"/>
+    <file name="untitled-0-crop-u553.png" crc="3919120878" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="f.jpg" crc="4071046528" seo="true" ref="index">
+    <file name="2-crop-u387.jpg" crc="253707387" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u455-6.png" crc="296739953" ref="index"/>
-    <file name="u458-4.png" crc="4014116619" ref="index"/>
-    <file name="u446-4.png" crc="4171622588" ref="index"/>
-    <file name="3.jpg" crc="4012747770" seo="true" ref="index">
+    <file name="3.jpg" crc="3799684495" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="42.jpg" crc="307198184" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="u586-4.png" crc="525464580" ref="untitled-2"/>
+    <file name="u662-4.png" crc="525464580" ref="untitled-2-copy"/>
+    <file name="22-crop-u783.jpg" crc="4108591795" seo="true" ref="untitled-5">
+      <caption webpage="untitled-5" alt=""/>
     </file>
-    <file name="2-crop-u387.jpg" crc="400126331" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pepa-ubera-and-josefina-camus_photo-by-camilla-greenwell-e1509806069811.jpg" crc="4201128681" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u147-8.png" crc="123306513" ref="index"/>
-    <file name="d.jpg" crc="176268300" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="13.jpg" crc="4046899445" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="u798-6.png" crc="244924970" ref="untitled-5"/>
+    <file name="u711-4.png" crc="3798190053" ref="untitled-5"/>
+    <file name="u790-8.png" crc="305969410" ref="untitled-5"/>
+    <file name="32.jpg" crc="3799684495" ref="untitled-6">
+      <caption webpage="untitled-6" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3931446312" seo="true" mt="1510935147890" redirect="true"/>
+  <file name="index.html" crc="4148285168" seo="true" mt="1511273410879" redirect="true"/>
+  <file name="untitled-2.html" crc="4264649329" seo="true" mt="1510944681116" redirect="true"/>
+  <file name="untitled-2-copy.html" crc="481397560" seo="true" mt="1510945781518" redirect="true"/>
+  <file name="untitled-5.html" crc="6475050" seo="true" mt="1511273419936" redirect="true"/>
+  <file name="untitled-6.html" crc="3798720855" seo="true" mt="1510946361191" redirect="true"/>
 </manifest>
