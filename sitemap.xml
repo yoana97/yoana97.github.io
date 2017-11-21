@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://y.com/index.html</loc>
+    <lastmod>2017-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://y.com/images/24.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://y.com/images/25.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://y.com/images/302f74c68ed0ee5b47d7066592552ae6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://y.com/images/22-crop-u127.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://y.com/images/f.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://y.com/images/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://y.com/images/42.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://y.com/images/2-crop-u387.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://y.com/images/pepa-ubera-and-josefina-camus_photo-by-camilla-greenwell-e1509806069811.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://y.com/images/d.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://y.com/images/13.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
