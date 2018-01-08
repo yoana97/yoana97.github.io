@@ -1,63 +1,38 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="y.com" resolutions="1x" timestamp="1511295019711">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yoana97.com" resolutions="1x" timestamp="1515424214127">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="untitled-2-copy.css" crc="3767997682" ref="untitled-2-copy"/>
+    <file name="untitled-2-copy.css" crc="6468784" ref="untitled-2-copy"/>
+    <file name="index.css" crc="4064907972" ref="index"/>
+    <file name="untitled-5.css" crc="4097868488" ref="untitled-5"/>
+    <file name="untitled-2.css" crc="185169750" ref="untitled-2"/>
     <file name="untitled-6.css" crc="4208584424" ref="untitled-6"/>
-    <file name="untitled-2.css" crc="3898867985" ref="untitled-2"/>
-    <file name="untitled-5.css" crc="388968555" ref="untitled-5"/>
-    <file name="index.css" crc="4008829181" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
-    <file name="museutils.js" crc="17924269" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
+    <file name="museutils.js" crc="3803043152" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
     <file name="whatinput.js" crc="86476730" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
-    <file name="museconfig.js" crc="144853533" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
-    <file name="jquery.scrolleffects.js" crc="232371266" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
-    <file name="require.js" crc="3861931657" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
+    <file name="require.js" crc="4157109226" ref="index:untitled-2:untitled-2-copy:untitled-5:untitled-6"/>
   </folder>
   <folder name="images">
-    <file name="4.jpg" crc="286025725" ref="index:untitled-5">
-      <caption webpage="index" alt=""/>
-      <caption webpage="untitled-5" alt=""/>
-    </file>
-    <file name="u827-6.png" crc="3923132034" ref="index"/>
-    <file name="d.jpg" crc="176268300" seo="true" ref="index:untitled-5">
-      <caption webpage="index" alt=""/>
-      <caption webpage="untitled-5" alt=""/>
-    </file>
-    <file name="42.jpg" crc="3993540226" ref="index:untitled-2:untitled-2-copy">
-      <caption webpage="index" alt=""/>
-      <caption webpage="untitled-2-copy" alt=""/>
-      <caption webpage="untitled-2" alt=""/>
-    </file>
-    <file name="u814-4.png" crc="244813028" ref="index"/>
-    <file name="b-crop-u957.png" crc="4210688562" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="3 copy.jpg" crc="407732459" ref="index:untitled-5:untitled-6">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="22-crop-u127.jpg" crc="4108591795" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u147-9.png" crc="501055564" ref="index"/>
+    <file name="u1434-4.png" crc="3774468454" ref="index"/>
     <file name="f.jpg" crc="4071046528" seo="true" ref="index:untitled-5">
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-5" alt=""/>
     </file>
-    <file name="u455-4.png" crc="4066933583" ref="index"/>
-    <file name="u972-4.png" crc="4066933583" ref="index"/>
-    <file name="u975-4.png" crc="4066933583" ref="index"/>
-    <file name="u835-5.png" crc="4091013359" ref="index"/>
-    <file name="14.jpg" crc="3897853457" ref="index">
+    <file name="u835-9.png" crc="528409717" ref="index"/>
+    <file name="22-crop-u127.jpg" crc="4108591795" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nn.jpg" crc="3791415367" ref="index">
+    <file name="30.jpg" crc="420798692" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u892-4.png" crc="4200428324" ref="index"/>
     <file name="3.jpg" crc="3994458569" ref="index:untitled-6">
       <caption webpage="index" alt=""/>
       <caption webpage="untitled-6" alt=""/>
@@ -67,33 +42,65 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="302f74c68ed0ee5b47d7066592552ae6.jpg" crc="4289123768" seo="true" ref="index">
+    <file name="nn.jpg" crc="3791415367" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mm.jpg" crc="389248472" ref="index">
+    <file name="25.jpg" crc="304852700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u892-10.png" crc="431156604" ref="index"/>
+    <file name="302f74c68ed0ee5b47d7066592552ae6.jpg" crc="4289123768" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="logo-sadlers-wells-g.png" crc="4090395997" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u586-4.png" crc="513595343" ref="untitled-2"/>
-    <file name="6f4ca4f0067b927512b2cfc139ce1ebc.jpg" crc="4002411892" ref="untitled-2-copy">
+    <file name="mm.jpg" crc="389248472" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b.jpg" crc="357203507" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d.jpg" crc="4101683621" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u827-6.png" crc="4126098116" ref="index"/>
+    <file name="42.jpg" crc="4153526515" ref="index:untitled-2:untitled-2-copy">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2-copy" alt=""/>
+    </file>
+    <file name="u814-6.png" crc="352273521" ref="index"/>
+    <file name="d2.jpg" crc="176268300" seo="true" ref="index:untitled-5">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+    </file>
+    <file name="u147-8.png" crc="514130426" ref="index"/>
+    <file name="6f4ca4f0067b927512b2cfc139ce1ebc-u1229-fr.jpg" crc="418422" ref="index"/>
+    <file name="13.jpg" crc="3983683395" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u586-4.png" crc="230458380" ref="untitled-2"/>
+    <file name="6f4ca4f0067b927512b2cfc139ce1ebc.jpg" crc="213554909" ref="untitled-2-copy">
       <caption webpage="untitled-2-copy" alt=""/>
     </file>
     <file name="10.jpg" crc="82046802" ref="untitled-2-copy">
       <caption webpage="untitled-2-copy" alt=""/>
     </file>
-    <file name="u662-4.png" crc="513595343" ref="untitled-2-copy"/>
+    <file name="u662-4.png" crc="230458380" ref="untitled-2-copy"/>
     <file name="22-crop-u783.jpg" crc="4108591795" seo="true" ref="untitled-5">
       <caption webpage="untitled-5" alt=""/>
     </file>
-    <file name="u798-6.png" crc="271974707" ref="untitled-5"/>
-    <file name="u711-4.png" crc="205279742" ref="untitled-5"/>
-    <file name="u790-8.png" crc="3989293748" ref="untitled-5"/>
+    <file name="u798-6.png" crc="201421236" ref="untitled-5"/>
+    <file name="4.jpg" crc="286025725" ref="untitled-5">
+      <caption webpage="untitled-5" alt=""/>
+    </file>
+    <file name="u711-4.png" crc="262678050" ref="untitled-5"/>
+    <file name="u790-8.png" crc="387651560" ref="untitled-5"/>
   </folder>
-  <file name="index.html" crc="4153378947" seo="true" mt="1511294919668" redirect="true"/>
-  <file name="untitled-2.html" crc="4286007534" seo="true" mt="1511290862128" redirect="true"/>
-  <file name="untitled-2-copy.html" crc="485661817" seo="true" mt="1511290862130" redirect="true"/>
-  <file name="untitled-5.html" crc="182450868" seo="true" mt="1511265130882" redirect="true"/>
-  <file name="untitled-6.html" crc="479385070" seo="true" mt="1511291894936" redirect="true"/>
+  <file name="index.html" crc="352551181" seo="true" mt="1515424033345" redirect="true"/>
+  <file name="untitled-2.html" crc="4004820879" seo="true" mt="1512495692615" redirect="true"/>
+  <file name="untitled-2-copy.html" crc="92653698" seo="true" mt="1512495692616" redirect="true"/>
+  <file name="untitled-5.html" crc="510542897" seo="true" mt="1515074363458" redirect="true"/>
+  <file name="untitled-6.html" crc="3803673209" seo="true" mt="1511291894936" redirect="true"/>
 </manifest>

@@ -1,61 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://y.com/index.html</loc>
-    <lastmod>2017-11-21</lastmod>
+    <loc>http://yoana97.com/index.html</loc>
+    <lastmod>2018-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://y.com/images/d.jpg</image:loc>
+      <image:loc>http://yoana97.com/images/f.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://y.com/images/b-crop-u957.png</image:loc>
+      <image:loc>http://yoana97.com/images/22-crop-u127.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://y.com/images/22-crop-u127.jpg</image:loc>
+      <image:loc>http://yoana97.com/images/32.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://y.com/images/f.jpg</image:loc>
+      <image:loc>http://yoana97.com/images/25.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://y.com/images/32.jpg</image:loc>
+      <image:loc>http://yoana97.com/images/302f74c68ed0ee5b47d7066592552ae6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://y.com/images/302f74c68ed0ee5b47d7066592552ae6.jpg</image:loc>
+      <image:loc>http://yoana97.com/images/logo-sadlers-wells-g.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://y.com/images/logo-sadlers-wells-g.png</image:loc>
+      <image:loc>http://yoana97.com/images/b.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yoana97.com/images/d2.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://y.com/untitled-2.html</loc>
-    <lastmod>2017-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://y.com/untitled-2-copy.html</loc>
-    <lastmod>2017-11-21</lastmod>
+    <loc>http://yoana97.com/untitled-2.html</loc>
+    <lastmod>2017-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://y.com/untitled-5.html</loc>
-    <lastmod>2017-11-21</lastmod>
+    <loc>http://yoana97.com/untitled-2-copy.html</loc>
+    <lastmod>2017-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yoana97.com/untitled-5.html</loc>
+    <lastmod>2018-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://y.com/images/d.jpg</image:loc>
+      <image:loc>http://yoana97.com/images/f.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://y.com/images/f.jpg</image:loc>
+      <image:loc>http://yoana97.com/images/d2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://y.com/images/22-crop-u783.jpg</image:loc>
+      <image:loc>http://yoana97.com/images/22-crop-u783.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://y.com/untitled-6.html</loc>
+    <loc>http://yoana97.com/untitled-6.html</loc>
     <lastmod>2017-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
